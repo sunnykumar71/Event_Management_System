@@ -300,6 +300,8 @@ npm run build
   <strong>⭐ Star this repository if you find it helpful!</strong>
 </p>
 
-<p align="center">
-  Made with ❤️ by Sunny Kumar
-</p>
+## 👨‍💻 Developer
+
+**Sunny Kumar**
+
+GitHub: https://github.com/sunnymagnaxl
